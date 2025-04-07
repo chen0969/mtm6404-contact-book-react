@@ -9,13 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
+    "firebase": "^11.6.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^2.2.0",
+    "sass": "^1.86.1",
     "vite": "^3.2.3"
   }
 }
